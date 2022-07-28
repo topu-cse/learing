@@ -1,0 +1,8 @@
+.filter {
+    filter: brightness(50%);
+}
+@media only screen and (max-width: 988px){
+    .filter{
+    height: 500px;
+    }
+}
