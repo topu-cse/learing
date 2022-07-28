@@ -6,3 +6,23 @@
     height: 500px;
     }
 }
+
+
+.img-card{
+    width: 100px;
+    height: 205px;
+}
+
+@media only screen and (max-width: 1400px){
+   .imges img{
+    width: 300px;
+    height: 200px;
+   }
+    
+}
+@media only screen and (max-width: 988px){
+    .imges img{
+        width: 100%;
+        height: 100%;
+       }
+}
